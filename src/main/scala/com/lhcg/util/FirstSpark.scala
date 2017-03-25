@@ -6,6 +6,7 @@ import org.apache.spark._
 
 /**
   * Created by lhcg on 8/3/2017.
+  * this just SparkPi demo
   */
 object FirstSpark {
   def main(args: Array[String]): Unit = {
